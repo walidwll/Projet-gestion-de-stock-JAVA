@@ -72,6 +72,6 @@ If you'd like to contribute to the project, please follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 ## License
-This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+This project is licensed under the [MIT License](), which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
 Feel free to reach out if you have any questions or need further assistance. Happy coding!
